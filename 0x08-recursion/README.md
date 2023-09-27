@@ -1,0 +1,1 @@
+An introduction to Recursion and how to use it purposely to print re-occuring functions and solve complex coding problems. The following directory will be printing recursions for strings, factorials and square roots of numbers.

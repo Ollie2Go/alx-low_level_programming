@@ -1,0 +1,1 @@
+Diving deeper into singly linked lists. The only C standard library functions allowed are malloc, free and exit. Any use of functions like printf, puts, calloc, realloc etc… is forbidden. We are allowed to use _putchar file. 
